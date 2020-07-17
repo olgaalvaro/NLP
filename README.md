@@ -1,33 +1,55 @@
-#NLP
+# NLP
 
 La práctica está dividida en los siguientes apartados por orden de elaboración:
 
-Preprocesado de los datos del dataframe de AirBnb reutilizando lo aplicado en el módulo de Machine Learning.
+1. Análisis de sentimientos 
 
-Notebook: Procesamiento de datos.ipynb
+1.1 Sin ningún tratamiento en los datos.
 
-Enlace URL: https://colab.research.google.com/drive/1lE3oMPgCn_qP2BLQERx5r42L-wgrLZES?usp=sharing
+Notebook: 0_AnalisisSentimientos_sintratamiento.ipynb
 
-Predicción manejando exclusivamente los datos numéricos (variables continuas y categóricas) tanto en regresión como en clasificación.
+Enlace URL: https://drive.google.com/file/d/1xHOjQ15-7-M7aQsZ9VPEPh1mu35_mIGk/view?usp=sharing
 
-Notebook: Prediccion con datos numericos.ipynb
+1.2 Con tratamiento en los datos
 
-Enlace URL: https://colab.research.google.com/drive/1Yj0HDamIlttkAhIpRirdqdmvTPozQ54q?usp=sharing
+Notebook: 1_AnalisisSentimientos_contratamiento.ipynb
 
-Predicción manejando exclusivamente las imágenes tanto en regresión como en clasificación.
+Enlace URL: https://drive.google.com/file/d/1hg37B8L5nEn6vS4grfSFuqcMyCD3aOyz/view?usp=sharing
 
-Notebook: Prediccion con imagenes.ipynb
+2. Modelado de Topics
 
-Enlace URL: https://drive.google.com/file/d/1BwOA3LVdKFSPiy_JR18uxr22o1Rfb0ye/view?usp=sharing
+2.1 Con una muestra de 2500 reviews sin tratamiento de la información
 
-Predicción combinando los datos numéricos y las imágenes tanto en regresión como en clasificación.
+Notebook: 2_ModeladoTopics.ipynb
 
-Notebook 1: Prediccion combinada imagenes y datos numericos.ipynb
+Enlace URL: https://drive.google.com/file/d/1_W9S7Fbmj4_FkTOvNeOo2equBhO_lC3w/view?usp=sharing
 
-Enlace URL: https://drive.google.com/file/d/1k4dhMCTycLvoi-hyHFcVsTgIfcVGh3Bm/view?usp=sharing
+2.2 Con una muestra de 2500 reviews con tratamiento de los datos
 
-Notebook 2: Prediccion combinada imagenes y datos numericos MLP_CNN.ipynb
+Notebook: 3_ModeladoTopics_Lemmatization.ipynb
 
-Enlace URL: https://colab.research.google.com/drive/189exunnlXJjVG8Oe0pMFcsxdwflGQAOL?usp=sharing
+Enlace URL: https://drive.google.com/file/d/1Fvir8i8A8Kjg2e9kIwZquVEr_DPTbOgV/view?usp=sharing
+
+2.3 Con el dataframe completo y con tratamiento de los datos
+
+Notebook: 4_ModeladoTopics_dfcompleto.ipynb
+
+Enlace URL: https://drive.google.com/file/d/1KyvnrNuMuoWTqMhfTsAOtQuHniGiTQch/view?usp=sharing
+
+2.4 Con el dataframe de tweets de Amazon
+
+Notebook: 5_ModeladoTopics.ipynb
+
+Enlace URL: https://drive.google.com/file/d/1Xzyw2GjyEwpGdKOImCOV_9ML4dUiu3NN/view?usp=sharing
+
+3. Generación de textos
+
+3.1. Modelo probabilístico a niver carácter
+Notebook: 6_NLG.ipynb
+Enlace  URL: https://colab.research.google.com/drive/1GIibapccAGeBahRCurFuJYMF51JC1X2n?usp=sharing
+
+3.2. Generación automática de textos
+Notebook: 7_NLG.ipynb
+Enlace  URL: https://colab.research.google.com/drive/1AO09JgK9t_kOTXKuGR4XyweNaIvKoVxN?usp=sharing
 
 Se incluyen los enlaces a GoogleDrive pero los notebooks también se han descargado en github en este repositorio.
