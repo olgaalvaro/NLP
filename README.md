@@ -2,7 +2,7 @@
 
 La práctica está dividida en los siguientes apartados por orden de elaboración:
 
-1. Análisis de sentimientos 
+**Análisis de sentimientos** 
 
 1.1 Sin ningún tratamiento en los datos.
 
@@ -16,7 +16,7 @@ Notebook: 1_AnalisisSentimientos_contratamiento.ipynb
 
 Enlace URL: https://drive.google.com/file/d/1hg37B8L5nEn6vS4grfSFuqcMyCD3aOyz/view?usp=sharing
 
-2. Modelado de Topics
+**Modelado de Topics**
 
 2.1 Con una muestra de 2500 reviews sin tratamiento de la información
 
@@ -42,7 +42,7 @@ Notebook: 5_ModeladoTopics.ipynb
 
 Enlace URL: https://drive.google.com/file/d/1Xzyw2GjyEwpGdKOImCOV_9ML4dUiu3NN/view?usp=sharing
 
-3. Generación de textos
+**Generación de textos NLG**
 
 3.1. Modelo probabilístico a niver carácter
 Notebook: 6_NLG.ipynb
