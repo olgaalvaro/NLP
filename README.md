@@ -4,13 +4,13 @@ La práctica está dividida en los siguientes apartados por orden de elaboració
 
 **Análisis de sentimientos** 
 
-0. Sin ningún tratamiento en los datos.
+- Sin ningún tratamiento en los datos.
 
 Notebook: 0_AnalisisSentimientos_sintratamiento.ipynb
 
 Enlace URL: https://drive.google.com/file/d/1xHOjQ15-7-M7aQsZ9VPEPh1mu35_mIGk/view?usp=sharing
 
-1. Con tratamiento en los datos
+- Con tratamiento en los datos
 
 Notebook: 1_AnalisisSentimientos_contratamiento.ipynb
 
