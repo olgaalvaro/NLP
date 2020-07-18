@@ -48,11 +48,15 @@ Enlace URL: https://drive.google.com/file/d/12GydkReyjMflVXe9QKAlN_nkUZoiWgHX/vi
 
 
 - Modelo probabilístico a niver carácter
+
 Notebook: 6_NLG.ipynb
+
 Enlace  URL: https://colab.research.google.com/drive/1GIibapccAGeBahRCurFuJYMF51JC1X2n?usp=sharing
 
 - Generación automática de textos
+
 Notebook: 7_NLG.ipynb
+
 Enlace  URL: https://colab.research.google.com/drive/1AO09JgK9t_kOTXKuGR4XyweNaIvKoVxN?usp=sharing
 
 Se incluyen los enlaces a GoogleDrive pero los notebooks también se han descargado en github en este repositorio.
