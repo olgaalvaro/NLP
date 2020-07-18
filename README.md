@@ -24,7 +24,7 @@ Enlace URL: https://drive.google.com/file/d/1hg37B8L5nEn6vS4grfSFuqcMyCD3aOyz/vi
 
 Notebook: 2_ModeladoTopics.ipynb
 
-Enlace URL: https://drive.google.com/file/d/1_W9S7Fbmj4_FkTOvNeOo2equBhO_lC3w/view?usp=sharing
+Enlace URL: https://drive.google.com/file/d/1Xzyw2GjyEwpGdKOImCOV_9ML4dUiu3NN/view?usp=sharing
 
 - Con una muestra de 2500 reviews con tratamiento de los datos
 
@@ -38,11 +38,11 @@ Notebook: 4_ModeladoTopics_dfcompleto.ipynb
 
 Enlace URL: https://drive.google.com/file/d/1KyvnrNuMuoWTqMhfTsAOtQuHniGiTQch/view?usp=sharing
 
-- Con el dataframe de tweets de Amazon
+- Con el dataframe de tweets de Amazon de Neil de Grasse Tyson
 
-Notebook: 5_ModeladoTopics.ipynb
+Notebook: 5_ModeladoTopics_Twitter.ipynb
 
-Enlace URL: https://drive.google.com/file/d/1Xzyw2GjyEwpGdKOImCOV_9ML4dUiu3NN/view?usp=sharing
+Enlace URL: https://drive.google.com/file/d/12GydkReyjMflVXe9QKAlN_nkUZoiWgHX/view?usp=sharing
 
 **Generación de textos NLG**
 
